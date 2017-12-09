@@ -1,0 +1,7 @@
+{
+  "name": "react-canvas-renderer",
+  "version": "0.0.1",
+  "description": "Custom React renderer which renders to <canvas />",
+  "main": "index.js",
+  "license": "MIT"
+}
